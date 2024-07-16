@@ -16,6 +16,19 @@ https://rebelliumgames.github.io/TechGiantsModTemplate/
 7. Using your browser visit `https://username.github.io/repository/manifest.json`.
 8. You can edit the files on GitHub or clone/download them locally edit them, then upload/push them back to GitHub.
 9. Make sure to have a unique ID for your mod, you can get one [here](https://rebelliumgames.github.io/TechGiantsMod/) and put it in the `uuid` section of your `manifest.json`.
+10. please make sure to create a new json object inside `versions` array in `manifest.json` and fill out the values correctly. the `sourceURL` will have to point to a file inside your GitHub repository. you can use absolute URLs like `https://rebelliumgames.github.io/TechGiantsMod/versions/v0.2.0/language.json` or use `./versions/v0.2.0/language.json` where the `./` is a substitute for your GitHub page URL. 
+
+    ```json
+    "versions": [
+        {
+            "version":"0.2.0",
+            "changelog": "",
+            "sourceURL": "./versions/v0.2.0/language.json",
+            "supportedGameVersion": ">=0.2.0",
+            "createdAt": "2024-07-17T00:00:00.000Z"
+        }
+    ]
+    ```
 
 If you incounter any problem please visit the [Dicord server](https://discord.gg/hexEVAxBJr) and ask the community for help.
 
