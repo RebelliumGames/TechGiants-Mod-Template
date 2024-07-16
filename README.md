@@ -17,3 +17,7 @@ https://rebelliumgames.github.io/TechGiantsModTemplate/
 
 If you incounter any problem please visit the [Dicord server](https://discord.gg/hexEVAxBJr) and ask the community for help.
 
+
+
+https://github.com/user-attachments/assets/4b00473c-780d-40f9-8e9d-c0e4782a4144
+
