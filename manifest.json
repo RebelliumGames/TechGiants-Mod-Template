@@ -13,11 +13,18 @@
     
     "versions": [
         {
-            "version":"1.0.0",
+            "version":"0.0.1",
             "changelog": "",
             "sourceURL": "./versions/v0.0.1/language.json",
             "supportedGameVersion": ">=0.1.2",
             "createdAt": "2024-03-08T21:32:29.332Z"
+        },
+        {
+            "version":"0.2.0",
+            "changelog": "",
+            "sourceURL": "./versions/v0.2.0/language.json",
+            "supportedGameVersion": ">=0.2.0",
+            "createdAt": "2024-07-17T00:00:00.000Z"
         }
     ]
     
