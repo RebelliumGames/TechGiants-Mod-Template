@@ -215,8 +215,6 @@
 
             "SOUND": "Sound",
             "TEXT_SIZE": "Text Size",
-            "TELEMETRY": "Telemetry",
-            "TELEMETRY_MESSAGE": "To make Tech Giants as good as possible, we'd like to ask your permission to collect and process your analytics data, including error reports and general gameplay statistics. Your data are sent automatically over the internet and are always 100% anonymous.",
 
             "THIS_SAVE_ALREADY_EXISTS_DO_YOU_WANT_TO_OVERWRITE_IT" : "This save already exists, do you want to overwrite it?",
             "OVERWRITE": "Overwrite",
