@@ -15,5 +15,5 @@ https://rebelliumgames.github.io/TechGiantsModTemplate/
 6. It might take a minute for you changes to take affect and be deployed to GitHub Pages.
 7. Using your browser visit `https://username.github.io/repository/manifest.json`.
 
-If you incounter any problem please visit the dicord server and ask the community.
+If you incounter any problem please visit the [Dicord server](https://discord.gg/hexEVAxBJr) and ask the community for help.
 
