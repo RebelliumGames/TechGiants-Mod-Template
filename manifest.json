@@ -1,0 +1,24 @@
+{
+    "uuid": "a6369995-6974-49a8-8ab3-4b7bfefeea78",
+    "name": "Language Mod",
+    "category": ["language"],
+    "description": "",
+    "website": "https://yourmodpage.com",
+    "author": [
+        {
+            "name": "Your Name",
+            "contacts": ["example@mail.com", "website.com"]
+        }
+    ],
+    
+    "versions": [
+        {
+            "version":"1.0.0",
+            "changelog": "",
+            "sourceURL": "./versions/v0.0.1/language.json",
+            "supportedGameVersion": ">=0.1.2",
+            "createdAt": "2024-03-08T21:32:29.332Z"
+        }
+    ]
+    
+}
