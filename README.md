@@ -14,9 +14,10 @@ https://rebelliumgames.github.io/TechGiantsModTemplate/
 5. Under **Branch** which is set to `None` select `main` then **Save**.
 6. It might take a minute for you changes to take affect and be deployed to GitHub Pages.
 7. Using your browser visit `https://username.github.io/repository/manifest.json`.
+8. You can edit the files on GitHub or clone/download them locally edit them, then upload/push them back to GitHub.
+9. Make sure to have a unique ID for your mod, you can get one [here](https://rebelliumgames.github.io/TechGiantsMod/) and put it in the `uuid` section of your `manifest.json`.
 
 If you incounter any problem please visit the [Dicord server](https://discord.gg/hexEVAxBJr) and ask the community for help.
-
 
 
 https://github.com/user-attachments/assets/4b00473c-780d-40f9-8e9d-c0e4782a4144
