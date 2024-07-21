@@ -1,4 +1,5 @@
 {
+    "manifest_version": "1",
     "uuid": "",
     "name": "Language Mod",
     "category": ["language"],
