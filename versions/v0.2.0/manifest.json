@@ -4,7 +4,7 @@
     "manifestVersion": "1",
     "uuid": "e2f9e44c-06cc-46b6-a4d2-dd1ea3b95e1c",
     "name": "Mod Name",
-    "version": "1.0.0",
+    "version": "0.2.0",
     "category": ["language"],
     "description": "This is an example mod template for language mods",
     "links": [{"type": "homepage", "url": "https://discord.com/channels/1252985943183458405/1258004760334958614"}],
