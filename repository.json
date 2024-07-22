@@ -1,5 +1,5 @@
 {
-    "discoverable": false,
+    "discoverable": true,
     "manifests": [
         "versions/v0.0.1/manifest.json",
         "versions/v0.2.0/manifest.json"
