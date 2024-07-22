@@ -8,7 +8,7 @@
     "category": ["Language"],
     "description": "This is an example mod template for language mods",
     "links": [{"type": "homepage", "url": "https://discord.com/channels/1252985943183458405/1258004760334958614"}],
-    "author": [{ "name": "Your Name or Username", "contacts": ["https://discord.com/users/1252978889668562995"] }],
+    "authors": [{ "name": "", "contacts": ["https://discord.com/users/1252978889668562995"] }],
     "changelog": "",
     "assets": [{ "type": "json", "path": "assets/language.json" }],
     "supportedGameVersion": "0.2.0-beta.7",
