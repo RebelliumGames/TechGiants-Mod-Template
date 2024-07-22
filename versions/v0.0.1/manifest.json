@@ -5,7 +5,7 @@
     "uuid": "e2f9e44c-06cc-46b6-a4d2-dd1ea3b95e1c",
     "name": "Mod Name",
     "version": "0.0.1",
-    "category": ["language"],
+    "category": ["Language"],
     "description": "This is an example mod template for language mods",
     "links": [{"type": "homepage", "url": "https://discord.com/channels/1252985943183458405/1258004760334958614"}],
     "author": [{ "name": "Your Name or Username", "contacts": ["https://discord.com/users/1252978889668562995"] }],
