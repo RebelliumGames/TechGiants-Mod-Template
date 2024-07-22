@@ -13,6 +13,6 @@
     "assets": [{ "type": "json", "path": "assets/language.json" }],
     "supportedGameVersion": "0.2.0-beta.7",
     "createdAt": "2024-07-22T10:30:00.000Z",
-    "license": "LICENSE.md",
-    "icon": "icon.svg"
+    "license": "/LICENSE.md",
+    "icon": "/icon.svg"
 }
