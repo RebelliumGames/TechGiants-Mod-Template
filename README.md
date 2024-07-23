@@ -21,6 +21,8 @@ https://rebelliumgames.github.io/TechGiants-Mod-Template/repository.json
 
     > **Warning!** all your `manifest.json` files must have the exact same **uuid**
 
+If you want your mod to be automatically installed in the game, ask the developers to include your mod in this [list](https://rebelliumgames.github.io/TechGiants-Mod/preinstall-mod-repositories.json).
+
 Below is a diagram illustrating the structure and connections between the files:
 ```mermaid
 flowchart LR
