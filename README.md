@@ -29,13 +29,13 @@ https://rebelliumgames.github.io/TechGiants-Mod-Template/repository.json
 
 ```mermaid
 flowchart LR
-    A{fa:fa-file-code repository.json} -->|fa:fa-link Link to Manifest| B{fa:fa-file-code manifest.json 
+    A{repository.json} -->|Link to Manifest| B{manifest.json 
     v0.0.1}
-    A{fa:fa-file-code repository.json} -->|fa:fa-link Link to Manifest| C{fa:fa-file-code manifest.json 
+    A{repository.json} -->|Link to Manifest| C{manifest.json 
     v0.2.0}
 
-    B -->|fa:fa-link Link to Asset| D[fa:fa-file language.json]
-    C -->|fa:fa-link Link to Asset| E[fa:fa-file language.json]
+    B -->|Link to Asset| D[language.json]
+    C -->|Link to Asset| E[language.json]
 ```
 
 If you incounter any problem please visit the [Dicord server](https://discord.gg/hexEVAxBJr) and ask the community for help.
