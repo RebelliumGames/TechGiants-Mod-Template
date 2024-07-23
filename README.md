@@ -17,16 +17,12 @@ https://rebelliumgames.github.io/TechGiants-Mod-Template/repository.json
 8. Using your browser visit `https://username.github.io/repository/repository.json`.
 
 9. You can edit the files on GitHub or clone/download them locally edit them, then upload/push them back to GitHub.
-10. Make sure to have a unique ID for your mod, you can get one [here](https://rebelliumgames.github.io/TechGiants-Mod/) and put it in the `uuid` section of your `manifest.json`.
+10. Make sure to have a unique ID for your mod, you can get one [here](https://rebelliumgames.github.io/TechGiants-Mod/) and put it in the `uuid` section of your `manifest.json`. 
 
-11. please make sure to create a new json object inside `assets` array in `manifest.json` and fill out the values correctly. the `path` will have to point to a file inside your GitHub repository. you can use absolute URLs like `https://rebelliumgames.github.io/TechGiantsMod/versions/v0.2.0/assets/language.json` or use `assets/language.json`. 
+    > [!WARNING]  
+    > all your `manifest.json` files must have the exact same **uuid**
 
-    ```json
-    "assets": [
-        { "type": "json", "path": "assets/language.json" }
-    ],
-    ```
-
+Below is a diagram illustrating the structure and connections between the files:
 ```mermaid
 flowchart LR
     A{repository.json} -->|Link to Manifest| B{manifest.json 
