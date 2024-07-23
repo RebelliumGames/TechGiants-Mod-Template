@@ -19,8 +19,8 @@ https://rebelliumgames.github.io/TechGiants-Mod-Template/repository.json
 9. You can edit the files on GitHub or clone/download them locally edit them, then upload/push them back to GitHub.
 10. Make sure to have a unique ID for your mod, you can get one [here](https://rebelliumgames.github.io/TechGiants-Mod/) and put it in the `uuid` section of your `manifest.json`. 
 
-    > [!WARNING]  
-    > all your `manifest.json` files must have the exact same **uuid**
+    > **Warning**
+    all your `manifest.json` files must have the exact same **uuid**
 
 Below is a diagram illustrating the structure and connections between the files:
 ```mermaid
