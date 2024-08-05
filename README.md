@@ -10,14 +10,15 @@ https://rebelliumgames.github.io/TechGiants-Mod-Template/repository.json
 1. First create your own copy of the template, [Create a new repository from Template](https://github.com/new?template_name=TechGiants-Mod-Template&template_owner=RebelliumGames).
 2. In `Repository name` field write your mod name.
 3. Then click on **Create repository**.
-4. To classify your mod repository and make it easily discoverable, add `tech-giants` and `mod` [topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics#adding-topics-to-your-repository)
-5. Next enable github pages for your repository by going to **Settings tab** and scroll down to the **Pages** section.
-6. Under **Branch** which is set to `None` select `main` then **Save**.
-7. It might take a minute for you changes to take affect and be deployed to GitHub Pages.
-8. Using your browser visit `https://username.github.io/repository/repository.json`.
+4. Make sure to create `LICENSE.md` file at the root of your repository.
+5. To classify your mod repository and make it easily discoverable, add `tech-giants` and `mod` [topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics#adding-topics-to-your-repository)
+6. Next enable github pages for your repository by going to **Settings tab** and scroll down to the **Pages** section.
+7. Under **Branch** which is set to `None` select `main` then **Save**.
+8. It might take a minute for you changes to take affect and be deployed to GitHub Pages.
+9. Using your browser visit `https://username.github.io/repository/repository.json`.
 
-9. You can edit the files on GitHub or clone/download them locally edit them, then upload/push them back to GitHub.
-10. Make sure to have a unique ID for your mod, you can get one [here](https://rebelliumgames.github.io/TechGiants-Mod/) and put it in the `uuid` section of your `manifest.json`. 
+10. You can edit the files on GitHub or clone/download them locally edit them, then upload/push them back to GitHub.
+11. Make sure to have a unique ID for your mod, you can get one [here](https://rebelliumgames.github.io/TechGiants-Mod/) and put it in the `uuid` section of your `manifest.json`. 
 
     > **Warning!** all your `manifest.json` files must have the exact same **uuid**
 
