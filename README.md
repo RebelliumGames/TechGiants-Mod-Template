@@ -27,7 +27,7 @@ Below is a diagram illustrating the structure and connections between the files:
 ```mermaid
 flowchart LR
     A{repository.json} -->|Link to Manifest| B{manifest.json 
-    v0.0.1}
+    v0.2.0-beta.7}
     A{repository.json} -->|Link to Manifest| C{manifest.json 
     v0.2.0}
 
